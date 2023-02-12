@@ -454,7 +454,7 @@ color: #333;
   label[for="search-input"] {
     position: relative;
     top: -10px;
-    left: 11px;
+    left: 5px;
   }
 
   input[type="search"] {
@@ -483,9 +483,9 @@ color: #333;
 
 #search-results {
 
-  text-align: center;
+  text-align: left;
   li {
-    text-align: center;
+    text-align: left;
   }
 }
 
