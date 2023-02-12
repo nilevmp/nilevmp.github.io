@@ -454,7 +454,7 @@ color: #333;
   label[for="search-input"] {
     position: relative;
     top: -10px;
-    left: 5px;
+    left: 11px;
   }
 
   input[type="search"] {
@@ -466,7 +466,7 @@ color: #333;
     outline: none;
     position: absolute;
     border-radius: 5px;
-    padding: 10px 10px 10px 35px;
+    padding: 10px 10px 10px 10px;
     color: var(--main-text-color);
     -webkit-appearance: none;
     background-color: rgba(128, 128, 128, 0.1);
