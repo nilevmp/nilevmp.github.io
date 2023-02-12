@@ -1,8 +1,8 @@
 site: nile
 title: nile
-greetings: Software Engineer, Carpenter, MMA enthusiast. 
+greetings: Nile 
 description: >-
-  Personal blog
+  Personal opinions expressed only. 
 lang: en-US
 timezone:  Europe/London
 repo: https://github.com/nilevmp/nilevmp.github.io # site repo [optional]
